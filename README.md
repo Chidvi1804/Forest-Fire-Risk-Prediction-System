@@ -1,4 +1,4 @@
-# Forest Fire Risk Prediction System
+# Forest Fire Risk Prediction System🔥🌲🔥
 
 ## Overview
 The **Forest Fire Risk Prediction System** project aims to predict the likelihood of forest fires based on various environmental factors such as temperature, humidity, wind speed, and geographical coordinates. This project uses machine learning models to analyze these features and predict whether there is a high risk of fire in a particular region.
