@@ -1,0 +1,8 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+scikit-learn
+xgboost
+imblearn
